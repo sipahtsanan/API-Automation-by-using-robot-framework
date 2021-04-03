@@ -2,8 +2,8 @@
 
 My project has been structured to 3 different parts.  
  - Keywords    
- - Resource    
- - Test case
+ - Resources    
+ - Test cases
 
 You can run it on any tools such as Pycharm, Visual Studio Code or others. 
 However, you have to install these things first:   
