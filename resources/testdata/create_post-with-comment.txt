@@ -1,0 +1,7 @@
+*** Variables ***
+
+
+&{create_post}
+  ...   body=Test inputting message in Post body
+  ...   title=Test inputting message in Post title
+

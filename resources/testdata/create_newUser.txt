@@ -1,0 +1,10 @@
+*** Variables ***
+
+
+&{create_newUser_requestBody}
+  ...   name=Test CreateNewUser
+  ...   gender=Female
+  ...   email=test.create_data2@15ce.com
+  ...   status=Active
+
+
