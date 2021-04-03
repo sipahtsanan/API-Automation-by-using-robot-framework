@@ -11,7 +11,7 @@ However, you have to install these things first:   
    - pip install robotframework    
    - pip install robotframework-httplibrary==0.1.2   
    - pip install robotframework-requests
-   - pip install collection
-   - pip install strings
-   - pip install robotframework-jsonlibrary
-   - pip install jsonlib
+   - pip install collection
+   - pip install strings
+   - pip install robotframework-jsonlibrary
+   - pip install jsonlib
