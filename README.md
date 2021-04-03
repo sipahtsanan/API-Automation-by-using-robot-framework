@@ -1,8 +1,8 @@
 # exam_API
 
-My project have sperated 3 parts    
+My project has been structured to 3 different parts.  
  - Keywords    
- - Test Data    
+ - Resource    
  - Test case
 
 You can run it on any tools such as Pycharm, Visual Studio Code or others. 
